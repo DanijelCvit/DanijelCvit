@@ -6,7 +6,7 @@
 <!-- Shields: https://shields.io/ -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
 
-![header](images/header.png)
+![header](images/header.gif)
 
 ## 👋 Bio
 
