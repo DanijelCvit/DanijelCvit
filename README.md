@@ -13,9 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![header](images/header.png)
+
 ## 👋 Bio
 
-My name is Danijel Cvitkusic. I'm from the Netherlands :netherlands: and I'm currently doing a 7-month bootcamp to become a full stack web developer :technologist:. I like all things art :art: and in my spare time I like to tinker with retro computers <img src="https://forums.irixnet.org/images/smilies/sgis/o2.png" width="15px">.
+My name is Danijel Cvitkusic. I'm from the Netherlands :netherlands: and I'm currently doing a 7-month bootcamp to become a full stack web developer :technologist: at HackYourFuture. I like all things art :art: and in my spare time I like to tinker with retro computers <img src="images/o2.png" width="15px">.
 
 ## :speech_balloon: Social
 
