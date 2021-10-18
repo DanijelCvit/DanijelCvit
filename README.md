@@ -14,7 +14,7 @@ My name is Danijel Cvitkusic. I'm from the Netherlands :netherlands: and I'm cur
 
 ## :speech_balloon: Social
 
-<a href="https://www.linkedin.com/in/danijel-cvitkusic-193b44223/"><img src="https://img.shields.io/badge/linkedin%20@Danijel Cvitkusic-2867b2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/danijel-cvitkusic-193b44223/"><img src="https://img.shields.io/badge/linkedin-2867b2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ## :abacus: Technology & Tools
 
