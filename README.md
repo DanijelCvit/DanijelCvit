@@ -35,5 +35,5 @@ My name is Danijel Cvitkusic. I'm from the Netherlands :netherlands: and I'm cur
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanijelCvit&theme=radical&title_color=45befe&text_color=fff&bg_color=1e1e1e)
 <img src="https://github-readme-stats.vercel.app/api?username=DanijelCvit&show_icons=true&theme=radical&title_color=45befe&text_color=fff&bg_color=1e1e1e&icon_color=45befe">
 
-![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=DanijelCvit&repo=https://github.com/DanijelCvit/PATREON-clone&show_icons=true&theme=radical&title_color=45befe&text_color=fff&icon_color=45befe&bg_color=1e1e1e)
-![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=DanijelCvit&repo=https://github.com/DanijelCvit/hyf-assignment1-artwebsite&show_icons=true&theme=radical&title_color=45befe&text_color=fff&icon_color=45befe&bg_color=1e1e1e)
+![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=DanijelCvit&repo=PATREON-clone&show_icons=true&theme=radical&title_color=45befe&text_color=fff&icon_color=45befe&bg_color=1e1e1e)
+![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=DanijelCvit&repo=hyf-assignment1-artwebsite&show_icons=true&theme=radical&title_color=45befe&text_color=fff&icon_color=45befe&bg_color=1e1e1e)
