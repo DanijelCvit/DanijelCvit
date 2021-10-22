@@ -38,6 +38,6 @@ My name is Danijel Cvitkusic. I'm from the Netherlands :netherlands: and I'm cur
 <!-- ![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=DanijelCvit&repo=PATREON-clone&show_icons=true&theme=radical&title_color=45befe&text_color=fff&icon_color=45befe&bg_color=1e1e1e)
 ![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=DanijelCvit&repo=hyf-assignment1-artwebsite&show_icons=true&theme=radical&title_color=45befe&text_color=fff&icon_color=45befe&bg_color=1e1e1e) -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DanijelCvit&repo=PATREON-clone&show_icons=true&theme=radical&title_color=45befe&text_color=fff&icon_color=45befe&bg_color=1e1e1e)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DanijelCvit&repo=PATREON-clone&show_icons=true&theme=radical&title_color=45befe&text_color=fff&icon_color=45befe&bg_color=1e1e1e)](https://github.com/DanijelCvit/PATREON-clone)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DanijelCvit&repo=hyf-assignment1-artwebsite&show_icons=true&theme=radical&title_color=45befe&text_color=fff&icon_color=45befe&bg_color=1e1e1e)](https://github.com/DanijelCvit/hyf-assignment1-artwebsite)
