@@ -40,4 +40,4 @@ My name is Danijel Cvitkusic. I'm from the Netherlands :netherlands: and I'm cur
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DanijelCvit&repo=PATREON-clone&show_icons=true&theme=radical&title_color=45befe&text_color=fff&icon_color=45befe&bg_color=1e1e1e)](https://github.com/DanijelCvit/PATREON-clone)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DanijelCvit&repo=hyf-assignment1-artwebsite&show_icons=true&theme=radical&title_color=45befe&text_color=fff&icon_color=45befe&bg_color=1e1e1e)](https://github.com/DanijelCvit/hyf-assignment1-artwebsite)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DanijelCvit&repo=ArtCalendar&show_icons=true&theme=radical&title_color=45befe&text_color=fff&icon_color=45befe&bg_color=1e1e1e)](https://github.com/DanijelCvit/ArtCalendar)
